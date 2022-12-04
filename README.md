@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Skin Tone Variations using Generative Adversarial Networks**
 
-- 🌱 I’m currently learning **Flutter, Web Scraping**
+- 🌱 I’m currently learning **Deep Learning, Flutter, Web Scraping**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, Flutter**
 
 - 📫 How to reach me **chinmayjavalagi@gmail.com**
 
