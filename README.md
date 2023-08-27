@@ -1,4 +1,3 @@
-<img src="https://camo.githubusercontent.com/91d6686979e55b55016f048f5a96a32a9b166d286db80a2cb02adcce3cf9756d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966" alt="MasterHead" data-canonical-src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm Chinmay Javalagi</h1>
 <h3 align="center">A passionate ML and Flutter developer from India</h3>
